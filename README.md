@@ -1,7 +1,7 @@
 # MyMongo
-Works with http://github.com/j7mbo/twitter-api-php__
-helper and MyMongo classes__
-__
+Works with http://github.com/j7mbo/twitter-api-php_
+helper and MyMongo classes_
+_
 How it works.__
 1) Plugin scrap twitter in JSON format, pass it to MyMongo class.__
 2) Upon first execution, MyMongo class will store all the data passed to Mongo DB__
